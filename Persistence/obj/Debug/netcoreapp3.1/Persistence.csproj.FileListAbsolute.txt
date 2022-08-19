@@ -1,0 +1,16 @@
+D:\bbo\Projet app .net 6 + react\Reactivities\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
+D:\bbo\Projet app .net 6 + react\Reactivities\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
+D:\bbo\Projet app .net 6 + react\Reactivities\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
+D:\bbo\Projet app .net 6 + react\Reactivities\Persistence\bin\Debug\netcoreapp3.1\Domain.dll
+D:\bbo\Projet app .net 6 + react\Reactivities\Persistence\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\bbo\Projet app .net 6 + react\Reactivities\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.AssemblyReference.cache
+D:\bbo\Projet app .net 6 + react\Reactivities\Persistence\obj\Debug\netcoreapp3.1\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\bbo\Projet app .net 6 + react\Reactivities\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+D:\bbo\Projet app .net 6 + react\Reactivities\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+D:\bbo\Projet app .net 6 + react\Reactivities\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
+D:\bbo\Projet app .net 6 + react\Reactivities\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
+D:\bbo\Projet app .net 6 + react\Reactivities\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
+D:\bbo\Projet app .net 6 + react\Reactivities\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
+D:\bbo\Projet app .net 6 + react\Reactivities\Persistence\bin\Debug\netcoreapp3.1\Persistence.runtimeconfig.json
+D:\bbo\Projet app .net 6 + react\Reactivities\Persistence\bin\Debug\netcoreapp3.1\Persistence.runtimeconfig.dev.json
+D:\bbo\Projet app .net 6 + react\Reactivities\Persistence\obj\Debug\netcoreapp3.1\Persistence.genruntimeconfig.cache

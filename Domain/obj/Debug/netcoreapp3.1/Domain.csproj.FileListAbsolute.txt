@@ -1,0 +1,10 @@
+D:\bbo\Projet app .net 6 + react\Reactivities\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\bbo\Projet app .net 6 + react\Reactivities\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\bbo\Projet app .net 6 + react\Reactivities\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\bbo\Projet app .net 6 + react\Reactivities\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\bbo\Projet app .net 6 + react\Reactivities\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\bbo\Projet app .net 6 + react\Reactivities\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\bbo\Projet app .net 6 + react\Reactivities\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\bbo\Projet app .net 6 + react\Reactivities\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\bbo\Projet app .net 6 + react\Reactivities\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\bbo\Projet app .net 6 + react\Reactivities\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

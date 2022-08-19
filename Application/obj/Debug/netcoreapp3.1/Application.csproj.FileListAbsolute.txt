@@ -1,0 +1,15 @@
+D:\bbo\Projet app .net 6 + react\Reactivities\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\bbo\Projet app .net 6 + react\Reactivities\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\bbo\Projet app .net 6 + react\Reactivities\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\bbo\Projet app .net 6 + react\Reactivities\Application\bin\Debug\netcoreapp3.1\Domain.dll
+D:\bbo\Projet app .net 6 + react\Reactivities\Application\bin\Debug\netcoreapp3.1\Persistence.dll
+D:\bbo\Projet app .net 6 + react\Reactivities\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\bbo\Projet app .net 6 + react\Reactivities\Application\bin\Debug\netcoreapp3.1\Persistence.pdb
+D:\bbo\Projet app .net 6 + react\Reactivities\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+D:\bbo\Projet app .net 6 + react\Reactivities\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\bbo\Projet app .net 6 + react\Reactivities\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\bbo\Projet app .net 6 + react\Reactivities\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\bbo\Projet app .net 6 + react\Reactivities\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\bbo\Projet app .net 6 + react\Reactivities\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\bbo\Projet app .net 6 + react\Reactivities\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\bbo\Projet app .net 6 + react\Reactivities\Application\obj\Debug\netcoreapp3.1\Application.pdb
